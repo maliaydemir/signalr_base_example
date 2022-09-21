@@ -1,6 +1,6 @@
 # signalr_base_example
 
-Basic SignalR usage. 
+Basic SignalR usage in Flutter app. 
 
 ## Getting Started
 
